@@ -60,7 +60,6 @@ function Main() {
               >
                 <div style={{
                         marginRight:"85%",
-                        borderBottom: "1px solid #ccc",
                       }}>
                     <p>단어</p>
                     <p >{til.word}</p>
