@@ -1,3 +1,12 @@
+파이어스토어 적용을 못해서 이부분을 어떻게 해야할지 모르겠습니다..
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
